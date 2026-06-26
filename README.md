@@ -19,3 +19,7 @@ The main objectives of this repository are:
 ### Artificial Intelligence Intern
 - Organization: Decode Labs
 - Duration: June 2026 – July 2026
+    Project 1: Rule-Based AI Chatbot
+    Project 2: Breast Cancer Classification
+    Project 3: AI Recommendation System
+    Project 4: Image Text Recognition Using OCR
